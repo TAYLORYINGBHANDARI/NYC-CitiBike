@@ -53,13 +53,20 @@ Perform an data analysis of bike trips during the month of August in NYC. This w
 
 
 ![image](https://user-images.githubusercontent.com/85265816/133943854-73db8b2d-8810-40c3-924a-8cebac8a8e14.png)
+![image](https://user-images.githubusercontent.com/85265816/133943966-cb2dd12f-073d-4de4-bcad-73b57b48f116.png)
+
 - Trips by Gender. Male users use more during rush hours. The peak usage day is Thursday
 - Trips by gender by weekdays. Male subscribers uses CitiBikes more obviously. THe most  peak hour is 8am and 5 pm.The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
 
 ## Summary
 
-For the data provided, it appears that most CitiBike Users  in NYC subscribed their bike renting service.There are more male custmer than others.The top start and ending areas are the same,all happens in the most touristic and busy areas. Users use more during weekdays.Peak day is Thursday. The peak usage occur daily at 8 am and 6 pm.The CitiBike is a very convient and popular transportataion method for short distance travel.
+For the data provided, it appears that most CitiBike Users in NYC subscribed their bike renting service.There are more male custmer than others.The top start and ending areas are the same,all happens in the most touristic and busy areas. Users use more during weekdays.Peak day is Thursday. The peak usage occur daily at 8 am and 6 pm.The CitiBike is a very convient and popular transportataion method for short distance travel.All those analysis implied that the bike service is an alternative transportation tool for workers who need to commute during office hours.
+
+However, I thnk our data is limited. We need to find more date to compare bike sharing date in other month. Also, find if there is some impacts by weather by analyzing weather data and bike sharing data.
+
+
+
 
 
 
