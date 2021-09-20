@@ -26,6 +26,9 @@ Perform an data analysis of bike trips during the month of August in NYC. This w
 
 
 ## Results
+
+[link to dashboard](https://public.tableau.com/app/profile/ying.bhandari/viz/NYCCitiBikeAnalysis_16321018322400/Story1?publish=yes)
+
 ### New York Citi Bike data visualizations for August 2019
 
 ![image](https://user-images.githubusercontent.com/85265816/133943753-a6a49f28-befa-42a1-9537-1064f5908ec4.png)
