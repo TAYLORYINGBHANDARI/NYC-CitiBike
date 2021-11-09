@@ -16,7 +16,7 @@ Perform an data analysis of bike trips during the month of August in NYC. This w
 
     2. export the DataFrame as converted 201908-citibike-tripdata CSV file without the index column.
 
-* Using Tablew to create Visualizations for the Trip Analysis.
+* Using Tableau to create Visualizations for the Trip Analysis.
 
     How long bikes are checked out for all riders and genders.
     How many trips are taken by the hour for each day of the week, for all riders and genders.
@@ -64,9 +64,9 @@ Perform an data analysis of bike trips during the month of August in NYC. This w
 
 ## Summary
 
-For the data provided, it appears that most CitiBike Users in NYC subscribed their bike renting service.There are more male custmer than others.The top start and ending areas are the same,all happens in the most touristic and busy areas. Users use more during weekdays.Peak day is Thursday. The peak usage occur daily at 8 am and 6 pm.The CitiBike is a very convient and popular transportataion method for short distance travel.All those analysis implied that the bike service is an alternative transportation tool for workers who need to commute during office hours.
+For the data provided, it appears that most CitiBike Users in NYC subscribed the bike renting service.There are more male custmers than others.The top start and ending areas are the same, all happened in the most touristic and busy areas. Users use more during weekdays.Peak day is Thursday. The peak usage occur daily at 8 am and 6 pm.The CitiBike is a very convenient and popular transportataion method for short distance travel.All those analysis implied that the bike service is an alternative transportation tool for workers who need to commute during office hours.
 
-However, I thnk our data is limited. We need to find more date to compare bike sharing date in other month. Also, find if there is some impacts by weather by analyzing weather data and bike sharing data.
+However, I think our data is limited. We need to find more date to compare bike sharing date in other months. Also, find if there are some impacts by weather by analyzing weather data and bike sharing data.
 
 
 
